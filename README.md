@@ -115,4 +115,6 @@ Sensors → Raspberry Pi → MQTT → Cloud (ThingSpeak / TTN)
 
 This project includes both hardware-based implementations and simulation-based experiments (Tinkercad) to demonstrate IoT concepts and system behavior.
 
+https://www.tinkercad.com/dashboard/designs/all
+
 ---
